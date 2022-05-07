@@ -9,9 +9,9 @@ env:
 
 on: 
   push:
-    #paths:
-    #  - 'KPMG.Interview/KPMG.Interview.TaskOne.WebApi/**'
-    #  - 'KPMG.Interview/KPMG.Interview.TaskOne.DbRepository/**'
+    paths:
+      - 'KPMG.Interview/KPMG.Interview.TaskOne.WebApi/**'
+      - 'KPMG.Interview/KPMG.Interview.TaskOne.DbRepository/**'
   pull_request:
     types: [opened, reopened]
 
