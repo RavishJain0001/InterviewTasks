@@ -102,7 +102,7 @@ jobs:
           'parameters:administratorLoginPassword': ${{ secrets.SQL_PASS }}
 
       - name: Run SQL ARM deployment
-        id: arm-deployment
+        id: sql-arm-deployment
         uses: azure/arm-deploy@v1
         with:
           subscriptionId: ${{ secrets.AZURE_SUBSCRIPTION }}
