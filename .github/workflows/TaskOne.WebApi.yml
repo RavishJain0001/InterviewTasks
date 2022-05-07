@@ -9,9 +9,9 @@ env:
 
 on: 
   push:
-    paths:
-      - 'KPMG.Interview/KPMG.Interview.TaskOne.WebApi/**'
-      - 'KPMG.Interview/KPMG.Interview.TaskOne.DbRepository/**'
+    #paths:
+    #  - 'KPMG.Interview/KPMG.Interview.TaskOne.WebApi/**'
+    #  - 'KPMG.Interview/KPMG.Interview.TaskOne.DbRepository/**'
   pull_request:
     types: [opened, reopened]
 
@@ -99,7 +99,6 @@ jobs:
         with:
           files: './templates/sql.parameters.json'
         env:
-          'parameters:administratorLogin': ${{ secrets.SQL_USERID }}
           'parameters:administratorLoginPassword': ${{ secrets.SQL_PASS }}
 
       - name: Run SQL ARM deployment

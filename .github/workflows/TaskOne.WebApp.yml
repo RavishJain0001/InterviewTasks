@@ -9,8 +9,8 @@ env:
 
 on: 
   push:
-    paths:
-      - 'KPMG.Interview/KPMG.Interview.TaskOne.WebApp/**'
+    #paths:
+    #  - 'KPMG.Interview/KPMG.Interview.TaskOne.WebApp/**'
   pull_request:
     types: [opened, reopened]
 

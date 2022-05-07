@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "webAppName": {
-      "value": "TaskOneWebApp-Dev"
+      "value": "TaskOneWeb-Dev"
     },
     "appServicePlanName": {
       "value": "ASP-rgkpmgtest-b690"
