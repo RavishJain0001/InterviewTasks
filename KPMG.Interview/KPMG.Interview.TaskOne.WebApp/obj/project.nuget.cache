@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OU1IOODfKEf2zG8pTmnXCsdOJOHmMvHhhW0VlC1Vli/NJgcspmklF0Jod6elXlaydv+WCg9GEJErqmiFMWSPIA==",
+  "success": true,
+  "projectFilePath": "C:\\source\\repos\\KPMG.Interview\\KPMG.Interview.TaskOne.WebApp\\KPMG.Interview.TaskOne.WebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mneo26\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0-preview.3.22175.4\\microsoft.extensions.configuration.abstractions.7.0.0-preview.3.22175.4.nupkg.sha512",
+    "C:\\Users\\mneo26\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0-preview.3.22175.4\\microsoft.extensions.primitives.7.0.0-preview.3.22175.4.nupkg.sha512"
+  ],
+  "logs": []
+}

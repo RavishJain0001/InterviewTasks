@@ -1,0 +1,12 @@
+C:\source\repos\KPMG.Interview\KPMG.Interview.TaskTwo\bin\Debug\net6.0\KPMG.Interview.TaskTwo.deps.json
+C:\source\repos\KPMG.Interview\KPMG.Interview.TaskTwo\bin\Debug\net6.0\KPMG.Interview.TaskTwo.dll
+C:\source\repos\KPMG.Interview\KPMG.Interview.TaskTwo\bin\Debug\net6.0\KPMG.Interview.TaskTwo.pdb
+C:\source\repos\KPMG.Interview\KPMG.Interview.TaskTwo\obj\Debug\net6.0\KPMG.Interview.TaskTwo.csproj.AssemblyReference.cache
+C:\source\repos\KPMG.Interview\KPMG.Interview.TaskTwo\obj\Debug\net6.0\KPMG.Interview.TaskTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\KPMG.Interview\KPMG.Interview.TaskTwo\obj\Debug\net6.0\KPMG.Interview.TaskTwo.AssemblyInfoInputs.cache
+C:\source\repos\KPMG.Interview\KPMG.Interview.TaskTwo\obj\Debug\net6.0\KPMG.Interview.TaskTwo.AssemblyInfo.cs
+C:\source\repos\KPMG.Interview\KPMG.Interview.TaskTwo\obj\Debug\net6.0\KPMG.Interview.TaskTwo.csproj.CoreCompileInputs.cache
+C:\source\repos\KPMG.Interview\KPMG.Interview.TaskTwo\obj\Debug\net6.0\KPMG.Interview.TaskTwo.dll
+C:\source\repos\KPMG.Interview\KPMG.Interview.TaskTwo\obj\Debug\net6.0\refint\KPMG.Interview.TaskTwo.dll
+C:\source\repos\KPMG.Interview\KPMG.Interview.TaskTwo\obj\Debug\net6.0\KPMG.Interview.TaskTwo.pdb
+C:\source\repos\KPMG.Interview\KPMG.Interview.TaskTwo\obj\Debug\net6.0\ref\KPMG.Interview.TaskTwo.dll
