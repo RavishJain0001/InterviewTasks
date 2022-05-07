@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "serverName": {
-      "value": "FspTest-Dev"
+      "value": "sqlkpmgdev0001"
     },
     "sqlDBName": {
-      "value": "FspTest"
+      "value": "sqlkpmgdev001"
     },
     "administratorLogin": {
       "value": ""
