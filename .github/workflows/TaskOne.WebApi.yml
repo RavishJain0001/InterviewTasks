@@ -100,6 +100,7 @@ jobs:
           files: './templates/sql.parameters.json'
         env:
           'parameters:administratorLoginPassword': ${{ secrets.SQL_PASS }}
+          'parameters:administratorLogin': ${{ secrets.SQL_USERID }}
 
       - name: Run SQL ARM deployment
         id: sql-arm-deployment
