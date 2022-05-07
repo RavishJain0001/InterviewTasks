@@ -21,11 +21,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Initialize CodeQL
-        uses: github/codeql-action/init@v2
-        with:
-          languages: "csharp"
-
       - name: Bump version and push tag
         if: github.ref == 'refs/heads/main'
         id: tag_version
@@ -56,9 +51,6 @@ jobs:
 
       - name: Build with dotnet
         run: dotnet build ${{env.AZURE_WEBAPP_PACKAGE_PATH}} --configuration Release
-
-      - name: Perform CodeQL Analysis
-        uses: github/codeql-action/analyze@v2
 
       - name: dotnet publish
         run: dotnet publish ${{env.AZURE_WEBAPP_PACKAGE_PATH}} -c Release -o ${{env.DOTNET_ROOT}}/myapp
