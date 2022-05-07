@@ -111,6 +111,12 @@ jobs:
           template: ./templates/sqlserver.json
           parameters: ./templates/sql.parameters.json
 
+      - uses: microsoft/variable-substitution@v1 
+        with:
+          files: 'appsettings.json'
+        env:
+          'Conn': ${{ secrets.SQL_CONN }}
+
       - name: Deploy to Staging Slot
         id: deploy-to-webapp-slot
         uses: azure/webapps-deploy@v2
@@ -153,6 +159,12 @@ jobs:
           template: ./templates/appservice.json
           parameters: ./templates/taskoneapi.test.parameters.json
       
+      - uses: microsoft/variable-substitution@v1 
+        with:
+          files: 'appsettings.json'
+        env:
+          'Conn': ${{ secrets.SQL_CONN }}
+
       - name: Deploy to Staging Slot
         id: deploy-to-webapp-slot
         uses: azure/webapps-deploy@v2
@@ -194,6 +206,12 @@ jobs:
           template: ./templates/appservice.json
           parameters: ./templates/taskoneapi.uat.parameters.json
       
+      - uses: microsoft/variable-substitution@v1 
+        with:
+          files: 'appsettings.json'
+        env:
+          'Conn': ${{ secrets.SQL_CONN }}
+
       - name: Deploy to Staging Slot
         id: deploy-to-webapp-slot
         uses: azure/webapps-deploy@v2
@@ -234,7 +252,13 @@ jobs:
           resourceGroupName: ${{ secrets.AZURE_RG }}
           template: ./templates/appservice.json
           parameters: ./templates/taskoneapi.prod.parameters.json
-      
+
+      - uses: microsoft/variable-substitution@v1 
+        with:
+          files: 'appsettings.json'
+        env:
+          'Conn': ${{ secrets.SQL_CONN }}
+
       - name: Deploy to Staging Slot
         id: deploy-to-webapp-slot
         uses: azure/webapps-deploy@v2

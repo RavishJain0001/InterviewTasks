@@ -61,7 +61,12 @@
         "displayName": "WebApp"
       },
       "properties": {
-        "serverFarmId": "[resourceId('Microsoft.Web/serverfarms', parameters('appServicePlanName'))]"
+        "serverFarmId": "[resourceId('Microsoft.Web/serverfarms', parameters('appServicePlanName'))]",
+        "siteConfig": {
+          "numberOfWorkers": 1,
+          "linuxFxVersion": "DOTNETCORE|6.0",
+          "alwaysOn": true
+        }
       },
       "dependsOn": [
         "[resourceId('Microsoft.Web/serverfarms', parameters('appServicePlanName'))]"
@@ -78,7 +83,12 @@
         "displayName": "WebAppSlots"
       },
       "properties": {
-        "serverFarmId": "[resourceId('Microsoft.Web/serverfarms', parameters('appServicePlanName'))]"
+        "serverFarmId": "[resourceId('Microsoft.Web/serverfarms', parameters('appServicePlanName'))]",
+        "siteConfig": {
+          "numberOfWorkers": 1,
+          "linuxFxVersion": "DOTNETCORE|6.0",
+          "alwaysOn": true
+        }
       },
       "dependsOn": [
         "[resourceId('Microsoft.Web/Sites', parameters('webAppName'))]"
