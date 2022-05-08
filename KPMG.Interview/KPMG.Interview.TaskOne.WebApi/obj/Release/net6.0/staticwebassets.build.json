@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tA/YZLTKGFMhgBPXl+tuVXzRaTtIgedJnX6kBT0zB4I=",
+  "Source": "KPMG.Interview.TaskOne.WebApi",
+  "BasePath": "_content/KPMG.Interview.TaskOne.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

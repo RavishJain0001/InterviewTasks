@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uVs7k/VnVobKQAwUDVCpwz78SDOtiC7W138YDw9XiOOPQLyn345YyLC22jApef4HgpXTbBctKaORvXUf4lhnUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mneo26\\Source\\Repos\\RavishJain0001\\InterviewTasks\\KPMG.Interview\\KPMG.Interview.TaskThree\\KPMG.Interview.TaskThree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mneo26\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,77 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KPMG.Interview.TaskThree", "KPMG.Interview.TaskThree\KPMG.Interview.TaskThree.csproj", "{E1F99883-7A5F-4635-94C7-19C5D7AC2CDC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KPMG.Interview.Tests", "KPMG.Interview.Tests\KPMG.Interview.Tests.csproj", "{0E6E158F-EDA4-4BDB-BD2A-D0B97CA61874}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D70BEC53-7B59-4241-BFC3-62BF9217478D}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KPMG.Interview.TaskThree.ConsoleApp", "KPMG.Interview.TaskThree.ConsoleApp\KPMG.Interview.TaskThree.ConsoleApp.csproj", "{B405DA2B-6F0B-450D-8506-B86D99F8C4F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenge3", "Challenge3", "{3818BF5D-88FD-4E40-B5B7-6D15C9193D6C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenge1", "Challenge1", "{806CD40F-0531-4521-835D-E3656B339CAF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KPMG.Interview.TaskOne.WebApp", "KPMG.Interview.TaskOne.WebApp\KPMG.Interview.TaskOne.WebApp.csproj", "{ED8DDDA5-EFA0-4772-8434-CB5ED859A1AB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KPMG.Interview.TaskOne.WebApi", "KPMG.Interview.TaskOne.WebApi\KPMG.Interview.TaskOne.WebApi.csproj", "{9ED50471-8635-4504-929D-8FB213E463C9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KPMG.Interview.TaskOne.DbRepository", "KPMG.Interview.TaskOne.DbRepository\KPMG.Interview.TaskOne.DbRepository.csproj", "{CEE47463-7083-409A-BD0E-91831F328501}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenge2", "Challenge2", "{EEC9033A-65F1-44FC-9D7C-E825B6B302C2}"
+	ProjectSection(SolutionItems) = preProject
+		KPMG.Interview.TaskTwo\GetAzure-InstanceMetaData.ps1 = KPMG.Interview.TaskTwo\GetAzure-InstanceMetaData.ps1
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1F99883-7A5F-4635-94C7-19C5D7AC2CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1F99883-7A5F-4635-94C7-19C5D7AC2CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1F99883-7A5F-4635-94C7-19C5D7AC2CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1F99883-7A5F-4635-94C7-19C5D7AC2CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E6E158F-EDA4-4BDB-BD2A-D0B97CA61874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E6E158F-EDA4-4BDB-BD2A-D0B97CA61874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E6E158F-EDA4-4BDB-BD2A-D0B97CA61874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E6E158F-EDA4-4BDB-BD2A-D0B97CA61874}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B405DA2B-6F0B-450D-8506-B86D99F8C4F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B405DA2B-6F0B-450D-8506-B86D99F8C4F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B405DA2B-6F0B-450D-8506-B86D99F8C4F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B405DA2B-6F0B-450D-8506-B86D99F8C4F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED8DDDA5-EFA0-4772-8434-CB5ED859A1AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED8DDDA5-EFA0-4772-8434-CB5ED859A1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED8DDDA5-EFA0-4772-8434-CB5ED859A1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED8DDDA5-EFA0-4772-8434-CB5ED859A1AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ED50471-8635-4504-929D-8FB213E463C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED50471-8635-4504-929D-8FB213E463C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED50471-8635-4504-929D-8FB213E463C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED50471-8635-4504-929D-8FB213E463C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEE47463-7083-409A-BD0E-91831F328501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE47463-7083-409A-BD0E-91831F328501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE47463-7083-409A-BD0E-91831F328501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE47463-7083-409A-BD0E-91831F328501}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E1F99883-7A5F-4635-94C7-19C5D7AC2CDC} = {3818BF5D-88FD-4E40-B5B7-6D15C9193D6C}
+		{0E6E158F-EDA4-4BDB-BD2A-D0B97CA61874} = {3818BF5D-88FD-4E40-B5B7-6D15C9193D6C}
+		{B405DA2B-6F0B-450D-8506-B86D99F8C4F3} = {3818BF5D-88FD-4E40-B5B7-6D15C9193D6C}
+		{ED8DDDA5-EFA0-4772-8434-CB5ED859A1AB} = {806CD40F-0531-4521-835D-E3656B339CAF}
+		{9ED50471-8635-4504-929D-8FB213E463C9} = {806CD40F-0531-4521-835D-E3656B339CAF}
+		{CEE47463-7083-409A-BD0E-91831F328501} = {806CD40F-0531-4521-835D-E3656B339CAF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0A67D6C-8768-4745-80FC-F4A18020B1A5}
+	EndGlobalSection
+EndGlobal

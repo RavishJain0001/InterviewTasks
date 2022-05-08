@@ -1,0 +1,12 @@
+D:\source\repos\KPMG.Interview\KPMG.Interview.TaskThree\bin\Release\net6.0\KPMG.Interview.TaskThree.deps.json
+D:\source\repos\KPMG.Interview\KPMG.Interview.TaskThree\bin\Release\net6.0\KPMG.Interview.TaskThree.dll
+D:\source\repos\KPMG.Interview\KPMG.Interview.TaskThree\bin\Release\net6.0\KPMG.Interview.TaskThree.pdb
+D:\source\repos\KPMG.Interview\KPMG.Interview.TaskThree\obj\Release\net6.0\KPMG.Interview.TaskThree.csproj.AssemblyReference.cache
+D:\source\repos\KPMG.Interview\KPMG.Interview.TaskThree\obj\Release\net6.0\KPMG.Interview.TaskThree.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\KPMG.Interview\KPMG.Interview.TaskThree\obj\Release\net6.0\KPMG.Interview.TaskThree.AssemblyInfoInputs.cache
+D:\source\repos\KPMG.Interview\KPMG.Interview.TaskThree\obj\Release\net6.0\KPMG.Interview.TaskThree.AssemblyInfo.cs
+D:\source\repos\KPMG.Interview\KPMG.Interview.TaskThree\obj\Release\net6.0\KPMG.Interview.TaskThree.csproj.CoreCompileInputs.cache
+D:\source\repos\KPMG.Interview\KPMG.Interview.TaskThree\obj\Release\net6.0\KPMG.Interview.TaskThree.dll
+D:\source\repos\KPMG.Interview\KPMG.Interview.TaskThree\obj\Release\net6.0\refint\KPMG.Interview.TaskThree.dll
+D:\source\repos\KPMG.Interview\KPMG.Interview.TaskThree\obj\Release\net6.0\KPMG.Interview.TaskThree.pdb
+D:\source\repos\KPMG.Interview\KPMG.Interview.TaskThree\obj\Release\net6.0\ref\KPMG.Interview.TaskThree.dll
