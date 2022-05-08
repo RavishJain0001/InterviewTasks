@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\source\\repos\\KPMG.Interview\\KPMG.Interview.TaskOne.WebApp\\KPMG.Interview.TaskOne.WebApp.csproj": {}
+    "C:\\Users\\mneo26\\Source\\Repos\\RavishJain0001\\InterviewTasks\\KPMG.Interview\\KPMG.Interview.TaskOne.WebApp\\KPMG.Interview.TaskOne.WebApp.csproj": {}
   },
   "projects": {
-    "C:\\source\\repos\\KPMG.Interview\\KPMG.Interview.TaskOne.WebApp\\KPMG.Interview.TaskOne.WebApp.csproj": {
+    "C:\\Users\\mneo26\\Source\\Repos\\RavishJain0001\\InterviewTasks\\KPMG.Interview\\KPMG.Interview.TaskOne.WebApp\\KPMG.Interview.TaskOne.WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\source\\repos\\KPMG.Interview\\KPMG.Interview.TaskOne.WebApp\\KPMG.Interview.TaskOne.WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\mneo26\\Source\\Repos\\RavishJain0001\\InterviewTasks\\KPMG.Interview\\KPMG.Interview.TaskOne.WebApp\\KPMG.Interview.TaskOne.WebApp.csproj",
         "projectName": "KPMG.Interview.TaskOne.WebApp",
-        "projectPath": "C:\\source\\repos\\KPMG.Interview\\KPMG.Interview.TaskOne.WebApp\\KPMG.Interview.TaskOne.WebApp.csproj",
+        "projectPath": "C:\\Users\\mneo26\\Source\\Repos\\RavishJain0001\\InterviewTasks\\KPMG.Interview\\KPMG.Interview.TaskOne.WebApp\\KPMG.Interview.TaskOne.WebApp.csproj",
         "packagesPath": "C:\\Users\\mneo26\\.nuget\\packages\\",
-        "outputPath": "C:\\source\\repos\\KPMG.Interview\\KPMG.Interview.TaskOne.WebApp\\obj\\",
+        "outputPath": "C:\\Users\\mneo26\\Source\\Repos\\RavishJain0001\\InterviewTasks\\KPMG.Interview\\KPMG.Interview.TaskOne.WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -562,11 +562,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source\\repos\\KPMG.Interview\\KPMG.Interview.TaskOne.WebApi\\KPMG.Interview.TaskOne.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\mneo26\\Source\\Repos\\RavishJain0001\\InterviewTasks\\KPMG.Interview\\KPMG.Interview.TaskOne.WebApi\\KPMG.Interview.TaskOne.WebApi.csproj",
       "projectName": "KPMG.Interview.TaskOne.WebApi",
-      "projectPath": "C:\\source\\repos\\KPMG.Interview\\KPMG.Interview.TaskOne.WebApi\\KPMG.Interview.TaskOne.WebApi.csproj",
+      "projectPath": "C:\\Users\\mneo26\\Source\\Repos\\RavishJain0001\\InterviewTasks\\KPMG.Interview\\KPMG.Interview.TaskOne.WebApi\\KPMG.Interview.TaskOne.WebApi.csproj",
       "packagesPath": "C:\\Users\\mneo26\\.nuget\\packages\\",
-      "outputPath": "C:\\source\\repos\\KPMG.Interview\\KPMG.Interview.TaskOne.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\mneo26\\Source\\Repos\\RavishJain0001\\InterviewTasks\\KPMG.Interview\\KPMG.Interview.TaskOne.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -588,8 +588,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\source\\repos\\KPMG.Interview\\KPMG.Interview.TaskOne.DbRepository\\KPMG.Interview.TaskOne.DbRepository.csproj": {
-              "projectPath": "C:\\source\\repos\\KPMG.Interview\\KPMG.Interview.TaskOne.DbRepository\\KPMG.Interview.TaskOne.DbRepository.csproj"
+            "C:\\Users\\mneo26\\Source\\Repos\\RavishJain0001\\InterviewTasks\\KPMG.Interview\\KPMG.Interview.TaskOne.DbRepository\\KPMG.Interview.TaskOne.DbRepository.csproj": {
+              "projectPath": "C:\\Users\\mneo26\\Source\\Repos\\RavishJain0001\\InterviewTasks\\KPMG.Interview\\KPMG.Interview.TaskOne.DbRepository\\KPMG.Interview.TaskOne.DbRepository.csproj"
             }
           }
         }

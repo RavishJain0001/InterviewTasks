@@ -73,11 +73,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source\\repos\\KPMG.Interview\\KPMG.Interview.TaskThree.ConsoleApp\\KPMG.Interview.TaskThree.ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\mneo26\\Source\\Repos\\RavishJain0001\\InterviewTasks\\KPMG.Interview\\KPMG.Interview.TaskThree.ConsoleApp\\KPMG.Interview.TaskThree.ConsoleApp.csproj",
       "projectName": "KPMG.Interview.TaskThree.ConsoleApp",
-      "projectPath": "C:\\source\\repos\\KPMG.Interview\\KPMG.Interview.TaskThree.ConsoleApp\\KPMG.Interview.TaskThree.ConsoleApp.csproj",
+      "projectPath": "C:\\Users\\mneo26\\Source\\Repos\\RavishJain0001\\InterviewTasks\\KPMG.Interview\\KPMG.Interview.TaskThree.ConsoleApp\\KPMG.Interview.TaskThree.ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\mneo26\\.nuget\\packages\\",
-      "outputPath": "C:\\source\\repos\\KPMG.Interview\\KPMG.Interview.TaskThree.ConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\mneo26\\Source\\Repos\\RavishJain0001\\InterviewTasks\\KPMG.Interview\\KPMG.Interview.TaskThree.ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -99,8 +99,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\source\\repos\\KPMG.Interview\\KPMG.Interview.TaskThree\\KPMG.Interview.TaskThree.csproj": {
-              "projectPath": "C:\\source\\repos\\KPMG.Interview\\KPMG.Interview.TaskThree\\KPMG.Interview.TaskThree.csproj"
+            "C:\\Users\\mneo26\\Source\\Repos\\RavishJain0001\\InterviewTasks\\KPMG.Interview\\KPMG.Interview.TaskThree\\KPMG.Interview.TaskThree.csproj": {
+              "projectPath": "C:\\Users\\mneo26\\Source\\Repos\\RavishJain0001\\InterviewTasks\\KPMG.Interview\\KPMG.Interview.TaskThree\\KPMG.Interview.TaskThree.csproj"
             }
           }
         }

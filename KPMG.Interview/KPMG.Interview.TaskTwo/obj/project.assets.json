@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source\\repos\\KPMG.Interview\\KPMG.Interview.TaskTwo\\KPMG.Interview.TaskTwo.csproj",
+      "projectUniqueName": "C:\\Users\\mneo26\\Source\\Repos\\RavishJain0001\\InterviewTasks\\KPMG.Interview\\KPMG.Interview.TaskTwo\\KPMG.Interview.TaskTwo.csproj",
       "projectName": "KPMG.Interview.TaskTwo",
-      "projectPath": "C:\\source\\repos\\KPMG.Interview\\KPMG.Interview.TaskTwo\\KPMG.Interview.TaskTwo.csproj",
+      "projectPath": "C:\\Users\\mneo26\\Source\\Repos\\RavishJain0001\\InterviewTasks\\KPMG.Interview\\KPMG.Interview.TaskTwo\\KPMG.Interview.TaskTwo.csproj",
       "packagesPath": "C:\\Users\\mneo26\\.nuget\\packages\\",
-      "outputPath": "C:\\source\\repos\\KPMG.Interview\\KPMG.Interview.TaskTwo\\obj\\",
+      "outputPath": "C:\\Users\\mneo26\\Source\\Repos\\RavishJain0001\\InterviewTasks\\KPMG.Interview\\KPMG.Interview.TaskTwo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -22,3 +22,15 @@ C:\source\repos\KPMG.Interview\KPMG.Interview.TaskOne.DbRepository\obj\Debug\net
 C:\source\repos\KPMG.Interview\KPMG.Interview.TaskOne.DbRepository\obj\Debug\net6.0\refint\KPMG.Interview.TaskOne.DbRepository.dll
 C:\source\repos\KPMG.Interview\KPMG.Interview.TaskOne.DbRepository\obj\Debug\net6.0\KPMG.Interview.TaskOne.DbRepository.pdb
 C:\source\repos\KPMG.Interview\KPMG.Interview.TaskOne.DbRepository\obj\Debug\net6.0\ref\KPMG.Interview.TaskOne.DbRepository.dll
+C:\Users\mneo26\Source\Repos\RavishJain0001\InterviewTasks\KPMG.Interview\KPMG.Interview.TaskOne.DbRepository\bin\Debug\net6.0\KPMG.Interview.TaskOne.DbRepository.deps.json
+C:\Users\mneo26\Source\Repos\RavishJain0001\InterviewTasks\KPMG.Interview\KPMG.Interview.TaskOne.DbRepository\bin\Debug\net6.0\KPMG.Interview.TaskOne.DbRepository.dll
+C:\Users\mneo26\Source\Repos\RavishJain0001\InterviewTasks\KPMG.Interview\KPMG.Interview.TaskOne.DbRepository\bin\Debug\net6.0\KPMG.Interview.TaskOne.DbRepository.pdb
+C:\Users\mneo26\Source\Repos\RavishJain0001\InterviewTasks\KPMG.Interview\KPMG.Interview.TaskOne.DbRepository\obj\Debug\net6.0\KPMG.Interview.TaskOne.DbRepository.csproj.AssemblyReference.cache
+C:\Users\mneo26\Source\Repos\RavishJain0001\InterviewTasks\KPMG.Interview\KPMG.Interview.TaskOne.DbRepository\obj\Debug\net6.0\KPMG.Interview.TaskOne.DbRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mneo26\Source\Repos\RavishJain0001\InterviewTasks\KPMG.Interview\KPMG.Interview.TaskOne.DbRepository\obj\Debug\net6.0\KPMG.Interview.TaskOne.DbRepository.AssemblyInfoInputs.cache
+C:\Users\mneo26\Source\Repos\RavishJain0001\InterviewTasks\KPMG.Interview\KPMG.Interview.TaskOne.DbRepository\obj\Debug\net6.0\KPMG.Interview.TaskOne.DbRepository.AssemblyInfo.cs
+C:\Users\mneo26\Source\Repos\RavishJain0001\InterviewTasks\KPMG.Interview\KPMG.Interview.TaskOne.DbRepository\obj\Debug\net6.0\KPMG.Interview.TaskOne.DbRepository.csproj.CoreCompileInputs.cache
+C:\Users\mneo26\Source\Repos\RavishJain0001\InterviewTasks\KPMG.Interview\KPMG.Interview.TaskOne.DbRepository\obj\Debug\net6.0\KPMG.Interview.TaskOne.DbRepository.dll
+C:\Users\mneo26\Source\Repos\RavishJain0001\InterviewTasks\KPMG.Interview\KPMG.Interview.TaskOne.DbRepository\obj\Debug\net6.0\refint\KPMG.Interview.TaskOne.DbRepository.dll
+C:\Users\mneo26\Source\Repos\RavishJain0001\InterviewTasks\KPMG.Interview\KPMG.Interview.TaskOne.DbRepository\obj\Debug\net6.0\KPMG.Interview.TaskOne.DbRepository.pdb
+C:\Users\mneo26\Source\Repos\RavishJain0001\InterviewTasks\KPMG.Interview\KPMG.Interview.TaskOne.DbRepository\obj\Debug\net6.0\ref\KPMG.Interview.TaskOne.DbRepository.dll
